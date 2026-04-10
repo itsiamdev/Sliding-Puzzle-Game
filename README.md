@@ -9,6 +9,6 @@ Welcome to the **Sliding Puzzle Game**! This is a classic and engaging puzzle ga
 - **Fun Challenge**: Test your logic and patience with increasing difficulty levels.
 
 ## 🔗 Play Now
-Experience the game live at: [https://iam269.github.io/Sliding-Puzzle-Game/](https://iam269.github.io/Sliding-Puzzle-Game/)
+Experience the game live at: [https://itsiamdev.github.io/Sliding-Puzzle-Game/](https://itsiamdev.github.io/Sliding-Puzzle-Game/)
 
 Have fun sliding those tiles! 🚀
